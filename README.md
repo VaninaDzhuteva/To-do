@@ -4,6 +4,9 @@ This project is a small front-end application that allows users to add, edit,
 complete, and delete tasks. It was built as a learning exercise to practice
 DOM manipulation, event handling, and working with jQuery.
 
+## 🔗 Live Demo:
+https://vaninadzhuteva.github.io/To-do/
+
 ## 🛠 Technologies
 - HTML5
 - CSS3
